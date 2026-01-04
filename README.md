@@ -27,5 +27,7 @@ Technically, the project highlights:
 
 This repository serves as a **starter kit for developers** who want to explore **multi-modal AI on AWS Bedrock** — combining **chat, retrieval, and image generation** in one cohesive framework.
 <br>
+<br>
 
-Special thanks to [**Krish Naik**](https://github.com/krishnaik06), whose tutorials inspired the Bedrock setup and CLI workflows.
+## References
+[Krish Naik](https://github.com/krishnaik06)
